@@ -1,3 +1,3 @@
-#!/usr/bin/env python3
-
-wrong_type = 'abc' + 123
+number = 42
+message = "The answer is " + str(number)
+print(message)

@@ -1,3 +1,2 @@
-#!/usr/bin/env python3
-
-poor_syntax = 2 * #
+favorite_food = "jollof rice"
+print(f"My favorite food is {favorite_food}")
